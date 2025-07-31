@@ -1,0 +1,8 @@
+Web server log report
+=====================
+Total number of requests: 6
+Number of unique IP addresses: 4
+Number of requests by methods:
+GET 5
+POST 1
+The most popular URL: 3 /index.html
